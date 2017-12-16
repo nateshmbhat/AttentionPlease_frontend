@@ -1,0 +1,16 @@
+.loginform{
+    margin:auto ; 
+    background:linear-gradient(blue , blueviolet ) ;
+    background-repeat: no-repeat ;
+    color:white ;
+    font-size: 15pt ;
+    height:300px ; 
+    width: 400px ; 
+    border-radius: 10px ;
+    
+}
+
+
+body{
+  background-image:  url("http://www.hddesktopbackgrounds.us/backgrounds-images/1440x900/7638w-wallpapers-261816070-1440x900.jpg")
+}
