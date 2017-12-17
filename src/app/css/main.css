@@ -12,5 +12,10 @@
 
 
 body{
-  background-image:  url("http://www.hddesktopbackgrounds.us/backgrounds-images/1440x900/7638w-wallpapers-261816070-1440x900.jpg")
+
+  background-image:  url("http://www.hddesktopbackgrounds.us/backgrounds-images/1440x900/7638w-wallpapers-261816070-1440x900.jpg") ; 
+  background-position: fixed ; 
+  background-repeat: no-repeat ; 
+  background-position: center ;
+  background-size:cover ;
 }
