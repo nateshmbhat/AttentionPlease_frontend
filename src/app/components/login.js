@@ -1,11 +1,11 @@
 import React from "react" ; 
 import ReactDOM from "react-dom" ;
 
+
 function myfun(e){
-   
     console.log("Login clicked ! ") ;
     
-    fetch('localhost:8000/', {
+    fetch('localhost:1234/', {
         method: 'POST',
         headers: {
           'Accept': 'application/json',
@@ -16,10 +16,9 @@ function myfun(e){
           secondParam: document.getElementById("login_password").value()
         })
       })
-
-
     e.preventDefault() ; 
 }
+
 
 
 export class Login extends React.Component{
